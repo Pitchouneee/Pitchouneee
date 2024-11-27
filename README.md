@@ -21,5 +21,5 @@ I'm a technical architect and I'm also an ultra-trail runner in my spare time.
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sonarqube/sonarqube-original.svg" height="40" alt="Sonarqube logo" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sonarqube/sonarqube-original.svg" height="40" alt="Keycloak logo" />
+  <img src="https://github.com/keycloak/keycloak-misc/blob/main/logo/logo-icon.svg" height="40" alt="Keycloak logo" />
 </div>
