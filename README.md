@@ -2,7 +2,7 @@
 
 I'm a technical architect and I'm also an ultra-trail runner in my spare time.
 
-### 🛠 Languages and Tools
+### 🛠 Languages and tools
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="40" alt="Java logo" />
